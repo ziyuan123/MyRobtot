@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myapplication/myapplication.iml" filepath="$PROJECT_DIR$/../myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myrobot.iml" filepath="$PROJECT_DIR$/myrobot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../summerfourday/summerfourday.iml" filepath="$PROJECT_DIR$/../summerfourday/summerfourday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../summerstudy.iml" filepath="$PROJECT_DIR$/../summerstudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../summerthreeday/summerthreeday.iml" filepath="$PROJECT_DIR$/../summerthreeday/summerthreeday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../summertwoday/summertwoday.iml" filepath="$PROJECT_DIR$/../summertwoday/summertwoday.iml" />
+    </modules>
+  </component>
+</project>

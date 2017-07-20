@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyRobot</string>
+    <string-array name="Welcome_tip">
+        <item>hello</item>
+        <item>欢迎</item>
+        <item>welcome</item>
+        <item>你好</item>
+        <item>主人好~！</item>
+    </string-array>
+</resources>
